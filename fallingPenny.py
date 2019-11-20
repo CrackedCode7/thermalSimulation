@@ -1,6 +1,6 @@
 # find the velocity of a falling penny given a certain height above the ground
 
-from modsim import *
+from modsim import sqrt
 
 a = 9.8
 
